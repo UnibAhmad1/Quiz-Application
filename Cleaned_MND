@@ -1,0 +1,2009 @@
+,Topic,Questions,Option 1,Option 2,Option 3,Option 4,Correct 
+1,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is 
+not true","In a right
+skewed 
+distribution, 
+median is 
+greater than 
+mean","In a right
+skewed 
+distribution, 
+mean is 
+greater than 
+median","In a left
+skewed 
+distribution, 
+the long tail is 
+in the left side
+of the
+distribution","In a left
+skewed 
+distribution, 
+mean is lesser
+than median","In a right
+skewed 
+distribution, 
+median is 
+greater than 
+mean"
+2,"Exploratory
+data Analysis 
+Using Python","Which of the
+following
+statements is 
+true for
+normally
+distributed 
+bell curve?","Mean >=
+Median","Mean=Median
+=Mode","Standard 
+Deviation = +/-
+1","Variance =
+cube root of
+standard 
+deviation","Mean=Median
+=Mode"
+3,"Exploratory
+data Analysis 
+Using Python","Using the
+information 
+below, identify
+which of the
+following is an
+outlier: Q1 = 3, 
+Q3 = 12, 
+Median = 7",22,25.5,-8.5,27,27
+4,"Exploratory
+data Analysis 
+Using Python","Which of the
+following
+charts uses 
+binned data? ",Pie Chart,Histogram,Box Plot,Bullet Graphs,Histogram
+5,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is 
+true about the
+Mean?","It is not usually
+used as basic
+statistics","Extreme
+values in 
+dataset donot
+affect the
+mean","Mean for a
+population is 
+always larger
+than the Mean
+for the sample","It is sensitive
+to extreme
+values and its 
+value can
+affect mean","It is sensitive
+to extreme
+values and its 
+value can
+affect mean"
+6,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is 
+true to
+calculate the
+upper
+whisker?",Q3 - 1.5*IQR,Q3 + 1.5*IQR,Q1 + 1.5*IQR,Q1 - 1.5*IQR,Q3 + 1.5*IQR
+7,"Exploratory
+data Analysis 
+Using Python","In box plot
+what does the
+middle line
+represent",First quartile,Fourth quartile,"Second
+quartile",Third quartile,"Second
+quartile"
+8,"Exploratory
+data Analysis 
+Using Python","Which of the
+following
+syntax is 
+correct to set",plt.xlabel,plt.set_xlabel,ax1.xlabel,ax1.set_xlabel,ax1.set_xlabel
+10,"Exploratory
+data Analysis 
+Using Python","Which of the
+following
+python code
+can be used to
+arrange 8 
+plots in 2 rows ","plt.subplots(4,
+2,figsize=(10,1
+0))","plt.subplots(2,
+4,figsize=(10,1
+0))",None of these,"plt.subplots(3,
+2,figsize=(10,1
+0))","plt.subplots(2,
+4,figsize=(10,1
+0))"
+12,"Exploratory
+data Analysis 
+Using Python","In which of
+the following
+chart the data 
+points are
+divided into
+portions?",Bar chart,Column chart,Pie chart,Scatter chart,Pie chart
+13,"Exploratory
+data Analysis 
+Using Python","What will the
+following
+command 
+render?
+plt.barh(data['
+region'],
+data['funding']
+, color = 'blue')","A horizontal
+bar chart with 
+blue fill using
+matplotlib 
+library for
+funding by
+region with 
+funding on Y-
+axis and 
+Region on X-
+Axis","A bar chart
+with blue fill
+using
+matplotlib 
+library for
+funding by
+region with 
+funding on X-
+axis and 
+Region on Y-
+Axis ","A horizontal
+bar chart with 
+blue fill using
+matplotlib 
+library for
+funding by
+region with 
+funding on X-
+axis and 
+Region on Y-
+Axis ","A horizontal
+bar chart with 
+blue fill using
+pandas library
+for funding by
+region with 
+funding on X-
+axis and 
+Region on Y-
+Axis ","A horizontal
+bar chart with 
+blue fill using
+matplotlib 
+library for
+funding by
+region with 
+funding on X-
+axis and 
+Region on Y-
+Axis "
+16,"Exploratory
+data Analysis 
+Using Python","Which plot
+below helps us 
+to analyse
+data over a
+period of
+time?",line,box,density,scatter,line
+17,"Exploratory
+data Analysis 
+Using Python","What will this 
+command do -
+plt.subplot(2,
+2, 3) ?","Make the
+bottom left
+subplot active
+in the 2x2 
+subplot grid. ","Make three
+subplots of
+2X2 
+dimensions
+each. ","Make the
+second
+subplot active
+in a 2X3 
+subplot grid. ","Make a
+subplot grid 
+with 7 
+subplots. ","Make the
+bottom left
+subplot active
+in the 2x2 
+subplot grid. "
+18,"Exploratory
+data Analysis 
+Using Python","Which of the
+following
+cannot be
+used to detect
+an outlier in 
+the data?",Boxplot,scatterplot,Normalisation ,"Probability
+plot",Normalisation 
+19,"Exploratory
+data Analysis 
+Using Python",PCA is used for,"Dimensionality
+reduction","Filling NA
+values","Outlier
+Detection","Correlation 
+analysis","Dimensionality
+reduction"
+20,"Exploratory
+data Analysis 
+Using Python","Which kind of
+scaling is 
+preferred if
+the data is 
+having outliers 
+?","Min-Max 
+Scaler",Robust Scaler,Normalizer,"Standard 
+scaling",Robust Scaler
+21,"Exploratory
+data Analysis 
+Using Python","Which one of
+the following
+is not a
+Univariate
+measure ?","75 percentile
+value",Mean,Correlation,"Standard 
+Deviation",Correlation
+22,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is an
+example of
+univariate
+analysis?",boxplot,histogram,density plots,All of these,All of these
+23,"Exploratory
+data Analysis 
+Using Python","The data set
+below has an 
+outlier of 42.","The mean will
+decrease","The median
+will decrease","The mean will
+increase","The median
+will increase","The mean will
+decrease"
+25,"Exploratory
+data Analysis 
+Using Python","Which of the
+following plot
+is best suited 
+(amongst the
+options given 
+below) to
+summarise
+distribution of
+minutes used 
+by telecom
+customers by
+region?","Faceted 
+Scatter plot
+using seaborn 
+library","Faceted 
+Histogram plot
+using seaborn 
+library","Faceted Line
+plot using
+seaborn 
+library",All of these,"Faceted 
+Histogram plot
+using seaborn 
+library"
+26,"Exploratory
+data Analysis 
+Using Python","Identify the
+correct code
+to get the
+percentage of
+missing values 
+in the data. 
+Assume
+pandas is 
+imported as
+pd.","pd.isnull(data).
+sum()*100","pd.isnull(data).
+sum()","pd.isnull(data).
+perct()","pd.isnull(data).
+sum()/data.sh
+ape[0]*100","pd.isnull(data).
+sum()/data.sh
+ape[0]*100"
+27,"Exploratory
+data Analysis 
+Using Python","Imagine, you 
+are given a list
+of items in a 
+DataFrame as 
+below.","array([0, 2, 3,
+4, 5, 6, 1])","array([0, 2, 3,
+4, 5, 1, 6])","array([0, 3, 4,
+5, 6, 1, 2])",Any of these,"array([0, 3, 4,
+5, 6, 1, 2])"
+37,"Exploratory
+data Analysis 
+Using Python","Consider a
+dataset of size
+2000 x 12, 
+where 2000 is 
+thethe numnumberber ofof
+observations
+and 12 is the
+number of
+features. 1298 
+values are
+missing from
+the fourth 
+feature
+column. ","Drop the 1298 
+observation 
+rows where
+the fourth 
+feature
+column values 
+are missing","Impute with 
+Mean","Impute with 
+Median","Drop the
+whole fourth 
+feature
+column","Drop the
+whole fourth 
+feature
+column"
+40,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is 
+NOT TRUE
+about
+Principal
+Component
+Analysis or
+PCA?","Principal
+components 
+are highly
+correlated","Principal
+components 
+are orthogonal
+to each other","The first
+principal
+component
+when sorted 
+properly, will
+explain the
+maximum
+variance in the
+data","Principal
+components 
+are not
+linearly
+correlated to
+each other","Principal
+components 
+are highly
+correlated"
+41,"Exploratory
+data Analysis 
+Using Python","Which 
+function is 
+used to
+convert from
+one datatype
+to another?",dtype,as,astype,type,astype
+42,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is 
+not true about
+Pearson’s 
+Correlation 
+Coefficient","Correlation is 
+calculated b/w 
+two numerical
+variables","Absolute value
+of correlation 
+will always lies 
+between 0 and
+1","Correlation 
+can explain 
+the non-linear
+relationship 
+between two
+metrics","If correlation is 
+approximately
+equal to 0.9,
+we can expect
+that increase
+in one
+numerical
+variable will
+result in 
+increase of
+other","Correlation 
+can explain 
+the non-linear
+relationship 
+between two
+metrics"
+44,"Exploratory
+data Analysis 
+Using Python","Identify the
+correct code
+to make
+horizontal bar
+chart using
+matplotlib 
+library. 
+Assume that
+the library is 
+imported and 
+aliased as plt. 
+x and y are
+features in the
+dataframe.","plt.bar(x,y)","plt.barh(x,y)","plt.bar(x,y,vert
+=False)","plt.barplot(x,y)","plt.barh(x,y)"
+45,"Exploratory
+data Analysis 
+Using Python","Identify the
+methods to
+handle missing
+values in a 
+dataset",All of these,"Drop the
+missing values","Impute with 
+Mean/Median
+/Mode","Impute with 
+ffill /bfill",All of these
+46,"Exploratory
+data Analysis 
+Using Python","Identify the
+scaling
+technique
+which re-
+scales a 
+feature value
+so that it has
+distribution 
+with 0 median
+value.","Standardizatio
+n","Min-Max 
+Normalization",Robust Scaler,Normalizer,Robust Scaler
+47,"Exploratory
+data Analysis 
+Using Python","Which of the
+following is 
+not true about
+curse of
+dimensionality","Performance
+of classifiers 
+increases as
+we include
+more variables","Increase in 
+number of
+variables 
+increases the
+complexity of
+the classifier","Performance
+of classifiers 
+decreases 
+beyond certain 
+number of
+variables","It is not ideal
+to always 
+include all the
+variables for
+the classifier","Performance
+of classifiers 
+increases as
+we include
+more variables"
+48,"Exploratory
+data Analysis 
+Using Python","Aften standard 
+scaling a data 
+set, which of
+the following
+is not true:",C,B,B and C,A,A
+52,"Exploratory
+data Analysis 
+Using Python","Min-maxScaler
+is calculated 
+by the
+formula ","(x-
+xmin)/(xmax-
+xmin)","(x-
+xmean)/(xmax-
+xmin)","(x-
+xmax)/(xmax-
+xmin)","(xmax-
+xmin)/(x-
+xmax)","(x-
+xmin)/(xmax-
+xmin)"
+53,"Exploratory
+data Analysis ","Which of the
+following is ","One hot
+encoding","Equal
+Frequency","Equal Width 
+Discretisation ","Domain 
+Knowledge","One hot
+encoding"
+55,"Exploratory
+data Analysis 
+Using Python","Which of the
+following
+returns
+number of non-
+NaN values of
+dataframe?",count,size,index,values,count
+56,"Exploratory
+data Analysis 
+Using Python","Lets say we
+have a
+Qualitative
+Categorical
+attribute in 
+the data as","data[""Remote
+_dummy
+""]=pd.get_du
+mmies(data[""
+Remote ""])","data[""Remote
+_dummy ""] =
+data[""Remote
+""].map(lambd
+a x: 1 if x ==
+""Remote "" else","data[""Remote
+_dummy ""] =
+data[""Remote
+""].filter(lambd
+a x: 1 if x ==
+""Remote "" else","data[""Remote
+_dummy ""] =
+data[""Remote
+""].apply(lambd
+a x: 1 if x ==
+""Remote "" else","data[""Remote
+_dummy ""] =
+data[""Remote
+""].filter(lambd
+a x: 1 if x ==
+""Remote "" else"
+61,"Exploratory
+data Analysis 
+Using Python","When z-score
+transformatio
+n is done on 
+continuous
+data, what will
+be the mean
+and standard 
+deviation of
+the
+transformed 
+data?","Mean 1, 
+standard 
+deviation 0","Mean 0, 
+standard 
+deviation 1","Depends on 
+data value
+changes","Insufficient
+data","Mean 0, 
+standard 
+deviation 1"
+62,"Exploratory
+data Analysis 
+Using Python","Which key in 
+the boxplot
+output
+dictionary can
+be referred to
+look at the list
+of extreme
+observations?",boxes ,whiskers ,fliers,caps,fliers
+63,"Machine
+Learning","When a binary
+classifier
+predicts actual
+event 0 as 1 
+then it is called 
+as _________.",False positive,True positive,False Negative,"True
+Negative",False positive
+64,"Machine
+Learning","Which of the
+following can
+be called as
+False
+Negative?","Actual value is 
+1 and classifier
+predicted it as 
+0","Actual value is 
+0 and classifier
+predicted it as 
+0","Actual value is 
+1 and classifier
+predicted it as 
+1","Actual value is 
+0 and classifier
+predicted it as 
+1","Actual value is 
+1 and classifier
+predicted it as 
+0"
+65,"Machine
+Learning","What is the
+type of
+function being
+used in logistic
+regression?",Sine function ,"Multivariate
+Function ","Sigmoid 
+function",Linear function,"Sigmoid 
+function"
+66,"Machine
+Learning","What is the
+name of the
+package (or
+class) in 
+Python from
+which the
+function 
+train_test_spli
+t() is taken?",pandas,numpy,"model_selecti
+on",metrics,"model_selecti
+on"
+67,"Machine
+Learning","An unpruned 
+decision tree
+with very
+minimal purity
+metric, may
+lead to:",very low recall,Underfitting,"Very low 
+precision",Overfitting,Overfitting
+68,"Machine
+Learning","A decision tree
+is pruned in 
+order to:","improve
+classification 
+accuracy on 
+training set","reduce
+dimensionality
+of the data","improve
+generalization 
+performance","make the tree
+balanced","improve
+generalization 
+performance"
+69,"Machine
+Learning","Internal
+nodes/sub-
+nodes of a
+decision tree
+correspond to:",Classes,Attributes,Data instances,None of these,Attributes
+70,"Machine
+Learning","Which of the
+following
+criteria is not
+used to decide
+which 
+attribute to
+split next in a 
+decision tree:",Scatter,"Information 
+Gain",Entropy,Gini Index,Scatter
+71,"Machine
+Learning","The x-axis and 
+y-axis in ROC
+curve",FPR and TPR,TPR and FPR,FPR and TNR,FNR and TPR,FPR and TPR
+73,"Machine
+Learning","Which of the
+following is 
+not true about
+Decision Trees","Top node is 
+selected based 
+on the split
+which 
+maximizes the
+gini impurity","Top node is 
+selected based 
+on the split
+which 
+minimizes the
+gini impurity","Can be used 
+for both 
+regression and 
+classification","If we build the
+full tree, it
+might overfit
+the training
+data","Top node is 
+selected based 
+on the split
+which 
+maximizes the
+gini impurity"
+74,"Machine
+Learning","Which of the
+following is a 
+measure of
+Precision","(TP+TN)/(FP+F
+N)",TP / (TP + FN),"(TP+TN)/(TP+T
+N+FP+FN)",TP / (TP + FP),TP / (TP + FP)
+75,"Machine
+Learning","Consider the
+two","Both A and B
+are wrong","Both A and B
+are correct","A is correct; B
+is wrong","A is wrong; B
+is correct","Both A and B
+are correct"
+80,"Machine
+Learning","The minimum
+and maximum
+values of the
+entropy are",(0 -1),(0 -0.5),None of these,(0 .5- 1 ),(0 -1)
+81,"Machine
+Learning","In a
+Classification 
+Tree , the
+splitting of
+node is based 
+on","Impurity
+measures such 
+as Gini index 
+or entropy for
+classification 
+tree","Mean Squared 
+Error (MSE)","Sum of
+Squared Errors 
+(SSE)",F-test,"Impurity
+measures such 
+as Gini index 
+or entropy for
+classification 
+tree"
+82,"Machine
+Learning","Which type of
+learning is 
+most
+commonly
+used to create
+models on 
+labelled 
+continuous
+target?",Regression,Classification,Clustering,Boosting,Regression
+83,"Machine
+Learning","Which of the
+following is a 
+measure of
+accuracy","(TP+TN)/(TP+T
+N+FP+FN)",(TP)/(TP+TN),"(TP+TN)/(FP+F
+N)",TP/TN,"(TP+TN)/(TP+T
+N+FP+FN)"
+84,"Machine
+Learning","Logistic
+regression is 
+used for",Classification ,"Predicting
+continous
+variables","Predicting
+continous and
+discrete
+variables",Deep learning,Classification 
+85,"Machine
+Learning","Which of
+these are
+methods of
+cross
+validation in 
+ML ",All of these,"Grid search 
+CV ","StratifiedKfold 
+CV ","K fold cross
+validation ",All of these
+86,"Machine
+Learning","What does a 
+multiple linear
+regression 
+analysis 
+examine?","The
+relationship 
+between one
+dependent
+and more than 
+one
+independent
+variables","The
+relationship 
+between more
+than one
+independent
+variables ","The
+relationship 
+between one
+or more than 
+one
+dependent
+and only one
+independent
+variable","The
+relationship 
+between more
+than one
+dependent
+and only one
+independent
+variable","The
+relationship 
+between one
+dependent
+and more than 
+one
+independent
+variables"
+87,"Machine
+Learning","In what type
+of machine
+learning
+labelled data 
+is used","supervised 
+learning","reinforcement
+learning","unsupervised 
+learning",active learning,"supervised 
+learning"
+88,"Machine
+Learning","For HR
+Attrition data, 
+while",Age,"DistanceFrom
+Home","MonthlyIncom
+e","None of the
+above","MonthlyIncom
+e"
+95,Machine,For HR,300,100,321,233,233
+105,Machine,For HR,0.6,0.301,0.151,0.199,0.199
+116,"Machine
+Learning","Calculate
+overall gini
+impurity after
+splitting usnig
+the following
+information. 
+Samples 
+before
+split=300. Left
+side samples 
+after
+splitting=200 
+(150 positives, 
+50 negatives); 
+Right side
+samples after
+splitting=100(5
+0 positives; 50 
+negatives)",0.21,0.31,0.41,0.11,0.41
+117,"Machine
+Learning","Which of the
+following
+values does 
+not help us
+understand 
+the Accuracy
+of the Model
+created?",Coefficients,Residuals,R Squared,p-value,Coefficients
+118,"Machine
+Learning","Which of the
+following is 
+part of Data 
+Imputation?","Filling Missing
+Values","Splitting Data 
+Set","Adding Null
+Values","Plotting
+Graphs","Filling Missing
+Values"
+119,"Machine
+Learning","Email filtering
+in gmail into
+Genuine
+(Inbox) and
+junk
+mails(promoti
+ons) and other
+categories is a 
+type of",Regression,Clustering,Classification,Apriori,Classification
+120,Machine,The maximum,0%,100%,It can have any,200%,100%
+122,"Machine
+Learning","KNN is this 
+type of
+algorithm",Bad Algorithm,"Lethargic
+Algorithm",Lazy Algorithm,"Lavish
+Algorithm",Lazy Algorithm
+123,"Machine
+Learning","You have data 
+of different
+customers 
+with attributes 
+Name, Age,
+Location, 
+Education. You
+have divide
+the group of
+customers into
+different
+groups based 
+on their
+buying
+patterns which 
+are not
+labelled. 
+Which type of
+Algorithms do
+you use?",Boosting,Clustering,Classification,Regression,Clustering
+124,"Machine
+Learning","Which type of
+learning is 
+most
+commonly
+used to create
+models on 
+labelled 
+categorical
+data(target
+value is also
+labelled)?",Regression,Classification,Clustering,"Componentiza
+tion",Classification
+125,"Machine
+Learning","Bagging is 
+built in which 
+Algorithm?","Linear
+Regression","Logistic
+Regression","K-Means 
+Clustering",RandomForest,"Random
+Forest"
+126,"Machine
+Learning","Which is the
+error code
+prominently
+used in 
+evaluating
+Regression 
+Models?",RMSE,SMSE,TMSE,MMSE,RMSE
+127,"Machine
+Learning","Which is 
+considered the
+best Data 
+Validation 
+technique?","Cross
+Validation",Data Splitting,"No need of
+any validation -
+Use the model
+directly","Any of the
+above","Cross
+Validation"
+128,"Machine
+Learning","Naïve Bayes is 
+a type of",Classification,Clustering,Regression,"Network
+Analysis",Classification
+129,"Machine
+Learning","I am given a 
+dataset with 
+20000 rows of
+data. Most of
+the data 
+including the
+dependent
+variable is 
+categorical
+and the data is 
+not sparse. 
+Which 
+Classification 
+would I chose?",Naïve Bayes,KNN,"K-Means 
+Clustering","K-Median
+Clustering",Naïve Bayes
+130,"Machine
+Learning","Which is the
+algorithm that
+works best in 
+90% of the
+cases, even 
+when we are
+ignorant of the
+domain 
+knowledge?",Decision Tree,"Random
+Forest","Semi-
+supervised 
+learning","Linear
+Regression","Random
+Forest"
+131,"Machine
+Learning","In which 
+model are
+multiple
+decision trees 
+built and the
+combined 
+output is used 
+as the output?","Random
+Forest","Linear
+Regression","Logistic
+Regression","K-Means 
+Clustering","Random
+Forest"
+132,Deep Learning,"Aritifical
+Intelligence is 
+about","Playing a
+game on 
+computer","Making an 
+intelligent
+machine","Programming
+on Machine
+with your own ","Putting your
+intelligence in 
+Machine","Making an 
+intelligent
+machine"
+134,Deep Learning,"Which of the
+following
+is/are
+applications of","Consumer
+Marketing","Identificaiton 
+technologies","Machine
+Translation ","All of the
+above","All of the
+above"
+136,Deep Learning,"How many
+images are
+there in ",70000,60000,10000,55000,70000
+139,Deep Learning,"When you are
+not sure about
+the number of
+epochs
+required for
+the algorithm
+to converge,
+which of
+regularization 
+technique do
+you use?",Early Stopping,Dropout,"L1 
+Regularization","L2 
+Regularization",Early Stopping
+140,Deep Learning,"Non-trainable
+parameters 
+may appear in 
+MLP","Sequential
+Layer","BatchNormaliz
+ation Layer",Conv2D Layer,"There is no
+concept of non-ation Layer
+trainable
+parameter in ","BatchNormaliz
+concept of non-ation Layer
+trainable
+parameter in "
+142,Deep Learning,"The meaning
+of Dense Layer
+is","that every
+neuron in a 
+layer is 
+connected to
+every other
+neuron in the
+previous layer","that every
+neuron in a 
+layer is 
+connected to
+every other
+neuron in the
+input layer","that every
+neuron in a 
+layer is 
+connected to
+every other
+neuron in the
+next layer","that every
+neuron in a 
+layer is 
+connected to
+every other
+neuron in the
+output layer","that every
+neuron in a 
+layer is 
+connected to
+every other
+neuron in the
+next layer"
+143,Deep Learning,"Which of the
+following
+is/are the loss
+functions used 
+for linear
+regression?",mse,mae,mape,All of these,All of these
+144,Deep Learning,"Which method 
+is called when 
+one epoch is 
+completed?",on_end(),"on_training_c
+omplete()","on_epoch_end
+()","on_epoch_fini
+shed()","on_epoch_end
+()"
+145,Deep Learning,"Which 
+parameter is 
+used in fit()
+function to
+invoke
+callbacks?",callback=,oncallback=,oncallbacks=,callbacks=,callbacks=
+146,Deep Learning,"What is the
+job of a loss
+function?","Decides to
+stop training a
+neural
+network","Measures how 
+good the
+current ‘guess’
+is","Figures out if
+you win or
+lose","Generates a 
+guess","Measures how 
+good the
+current ‘guess’
+is"
+147,Deep Learning,"What is the
+job of an 
+optimizer
+function?","Decides to
+stop training a
+neural
+network","Figures out
+how to
+efficiently 
+compile your
+code","Generates a 
+new and 
+improved 
+guess","Measures how 
+good the
+current guess
+is","Generates a 
+new and 
+improved 
+guess"
+148,Deep Learning,"Which 
+function is 
+used to decide
+whether to
+take any
+action or not
+based on value
+generated by
+neurons?",Loss function,"Optimizer
+function","Memory
+Function","Activation 
+function","Activation 
+function"
+149,Deep Learning,"Which of the
+following is 
+NOT an 
+activation 
+function?",Adam,Linear,Sigmoid,Softmax,Adam
+150,Deep Learning,"The range of
+the output of
+tanh() function 
+is ","(0, 1)","[-1, 1]","(- ∞, ∞ )","[0,1]","[-1, 1]"
+151,Deep Learning,"The output of
+ReLU ranges 
+from","(0, 1)","(- ∞, ∞ )","[0, ∞ )","(-1, 1)","[0, ∞ )"
+152,Deep Learning,"The job of
+softmax 
+function is to","converge the
+algorithm","make sure
+that the loss is 
+minimum","regularize the
+parameters","convert the
+scores 
+generated in 
+the last hidden 
+layer into
+probability
+values","convert the
+scores 
+generated in 
+the last hidden 
+layer into
+probability
+values"
+153,Deep Learning,"Every Neuron 
+in Feed 
+Forward 
+Neural
+Network has
+two parts viz. :","(1) A non-
+linear
+combination 
+of inputs and
+(2) A linear
+activation 
+function that
+converts the
+non- linear
+combination 
+to another
+value.","(1) Linear
+combination 
+of inputs and
+(2) A non-
+linear
+activation 
+function that
+converts the
+linear
+combination 
+to another
+value.","(1) A loss
+function and
+(2) An 
+activation 
+function","(1) An 
+activation 
+function and
+(2) An 
+optimizer
+function","(1) Linear
+combination 
+of inputs and
+(2) A non-
+linear
+activation 
+function that
+converts the
+linear
+combination 
+to another
+value."
+154,Deep Learning,"Applying
+Convolutions
+on top of our
+Deep neural
+network will
+make training:",Stays the same,Faster,Slower,"It depends on 
+many factors. 
+It might make
+your training
+faster or
+slower, and a
+poorly
+designed 
+Convolutional
+layer may
+even be less
+efficient than 
+a plain DNN!","It depends on 
+many factors. 
+It might make
+your training
+faster or
+slower, and a
+poorly
+designed 
+Convolutional
+layer may
+even be less
+efficient than 
+a plain DNN!"
+155,Deep Learning,"Using Image
+Generator,
+how do you 
+label images?","It’s based on 
+the directory
+the image is 
+contained in","It’s based on 
+the file name","TensorFlow 
+figures it out
+from the
+contents","You have to
+manually do it","It’s based on 
+the directory
+the image is 
+contained in"
+156,Deep Learning,"Which 
+parameter of
+the Image
+Generator is 
+used to
+normalize the
+image?","normalize_ima
+ge",rescale,Rescale_image,Normalize,rescale
+157,Deep Learning,"If your training
+data is close to
+1.000 
+accuracy, but
+your validation 
+data isn’t,
+what’s the risk
+here?","You’re
+underfitting
+on your
+validation data","No risk, that’s 
+a great result","You’re
+overfitting on 
+your training
+data","You’re
+overfitting on 
+your validation 
+data","You’re
+overfitting on 
+your training
+data"
+158,Deep Learning,"If my Image is 
+sized 150x150,
+and we pass a 
+3x3 
+Convolution 
+over it, what
+size is the
+resulting
+image?",153x153,450x450,150x150,148x148,148x148
+159,Deep Learning,"What’s the
+name of the
+API that allows 
+you to inspect
+the impact of
+convolutions
+on the
+images?","The
+model.convolu
+tions API","The
+model.layers 
+API","The
+model.images 
+API","The
+model.pools 
+API","The
+model.layers 
+API"
+160,Deep Learning,"Why is 
+overfitting
+more likely to
+occur on 
+smaller
+datasets?","Because in a 
+smaller
+dataset, your
+validation data 
+is more likely
+to look like
+your training
+data","Because there
+isn't enough 
+data to
+activate all the
+convolutions
+or neurons","Because
+there's less
+likelihood of
+all possible
+features being
+encountered 
+in the training
+process.","Because with 
+less data, the
+training will
+take place
+more quickly,
+and some
+features may
+be missed","Because
+there's less
+likelihood of
+all possible
+features being
+encountered 
+in the training
+process."
+161,Deep Learning,"How do you 
+use Image
+Augmentation 
+in 
+TensorFLow?","With the
+keras.augment
+API","With the
+tf.augment
+API","You have to
+write a plugin 
+to extend
+tf.layers","Using
+parameters to
+the
+ImageDataGen
+erator","Using
+parameters to
+the
+ImageDataGen
+erator"
+162,Deep Learning,"If my training
+data only has
+people facing
+left, but I want
+to classify
+people facing
+right, how 
+would I avoid 
+overfitting?","Use the
+‘horizontal_fli
+p’ parameter","Use the ‘flip’ 
+parameter","Use the
+‘flip_vertical’
+parameter
+around the Y
+axis","Use the ‘flip’ 
+parameter and
+set ‘horizontal’","Use the
+‘horizontal_fli
+p’ parameter"
+163,Deep Learning,"When using
+Image
+Augmentation 
+with the
+ImageDataGen
+erator, what
+happens to
+your raw 
+image data on-
+disk.","It gets 
+overwritten, 
+so be sure to
+make a backup","Nothing, all
+augmentation 
+is done in-
+memory","A copy is 
+made and the
+augmentation 
+is done on the
+copy",It gets deleted,"Nothing, all
+augmentation 
+is done in-
+memory"
+164,Deep Learning,"Why is 
+transfer
+learning
+useful?","Because I can
+use all of the
+data from the
+original
+training set","Because I can
+use all of the
+data from the
+original
+validation set","Because I can
+use the
+features that
+were learned 
+from large
+datasets that I 
+may not have
+access to","Because I can
+use the
+validation 
+metadata 
+from large
+datasets that I 
+may not have
+access to","Because I can
+use the
+features that
+were learned 
+from large
+datasets that I 
+may not have
+access to"
+165,Deep Learning,"How did you 
+lock or freeze
+a layer from
+retraining?",tf.freeze(layer),"tf.layer.frozen 
+= true","tf.layer.locked 
+= true","layer.trainable
+= false","layer.trainable
+= false"
+166,Deep Learning,"How do you 
+change the
+number of
+classes the
+model can
+classify when 
+using transfer
+learning? (i.e. 
+the original
+model","Ignore all the
+classes above
+yours (i.e. 
+Numbers 2 
+onwards if I'm
+just classing 2)","Use all classes 
+but set their
+weights to 0","Use dropouts 
+to eliminate
+the unwanted 
+classes","When you add 
+your DNN at
+the bottom of
+the network,
+you specify
+your output
+layer with the
+number of
+classes you 
+want","When you add 
+your DNN at
+the bottom of
+the network,
+you specify
+your output
+layer with the
+number of
+classes you 
+want"
+169,Deep Learning,"Which method 
+of Model
+object is used 
+to extract the
+required layer
+from a NN
+model?",extract_layer(),layer(),get_layer(),model_layer(),get_layer()
+170,Deep Learning,"A.M Turing
+developed a 
+technique for
+determining
+whether a
+computer
+could or could 
+not",Algorithm,Turing Test,"Boolean
+Algebra",Linear Algebra,Turing Test
+173,Deep Learning,"What is the
+shape of the
+following
+tensorflow 
+object?","Tensorflow([2,
+2,4])","Tensorflow([3,
+3,4])","Tensorflow([2,
+3,4])","Tensorflow([2,
+9])","Tensorflow([3,
+3,4])"
+174,Deep Learning,"Which of the
+following
+operations
+functions are
+available in 
+tensorflow?",tf.pow(),tf.sqrt(),tf.exp(),"All of the
+above","All of the
+above"
+175,Deep Learning,"What is the
+shape of the
+tensor given 
+below:","(1, 4)","(4,)",4,5,"(4,)"
+178,NLP,"Natural
+Language
+Processing is 
+used in","Text
+classification","Topic
+modeling",Chatbots,"All of the
+above","All of the
+above"
+179,NLP,"What is 
+tokenization?","Breaking
+sentences into
+words","Creating a set
+of
+vocabularies","Removing
+stopwords","All of the
+above","Breaking
+sentences into
+words"
+180,NLP,"Bag of words
+model uses","Vocabulary of
+known words","Measure of
+the presence
+of known 
+words","All of the
+above","None of the
+above","All of the
+above"
+181,NLP,"What
+stemming
+refers to in 
+text mining?","Reducing a
+word to its 
+root","Defining the
+parts of
+speech of a
+word","Converting
+sentences to
+words","None of the
+above","Reducing a
+word to its 
+root"
+182,NLP,"Bag of words
+in text
+preprocessing
+is a","Feature
+scaling
+technique","Feature
+extraction 
+technique","Feature
+selection 
+technique","None of the
+above","Feature
+extraction 
+technique"
+183,NLP,"In text mining,
+how the words
+‘lovely’ is 
+converted to
+‘love’",By stemming,"By
+tokenization","By
+lemmatization","None of the
+above",By stemming
+184,NLP,"Stop words
+are","words that
+frequently
+found in a 
+document","words that
+have no use in 
+prediction ","words that are
+not important
+for text mining","All of the
+above","All of the
+above"
+185,NLP,"____________ 
+is a Python 
+library to
+make",Pandas,Seaborn,Nltk,Beautifulsoup,Nltk
+188,NLP,"Which of the
+following
+techniques 
+can be used 
+for keyword 
+normalization 
+in NLP, the
+process of
+converting a
+keyword into
+its base form?",Lemmatization,Soundex,"CosineSimilarit
+y",N-grams,Lemmatization
+189,NLP,"In NLP, the
+process of
+removing
+words like
+“and”, “is”,
+“a”, “an”,
+“the” from a
+sentence is 
+called as",Stemming,Lemmatization,Stop word,"All of the
+above",Stop word
+190,NLP,"In NLP, the
+process of
+identifying
+people, an 
+organization 
+from a given 
+sentence,
+paragraph is 
+called",Stemming,Lemmatization,"Stop word 
+removal","Named entity
+recognition","Named entity
+recognition"
+191,NLP,"N-grams are
+defined as the
+combination 
+of N keywords
+together. How 
+many bi-grams 
+can be",7,8,9,10,9
+194,NLP,"How many
+trigrams 
+phrases can be
+generated 
+from the
+following
+sentence,
+after",4,5,6,7,5
+205,NLP,While,Sklearn,LDAviz,Nltk,Gensim,Gensim
+210,NLP,"To identify
+location, 
+people, and an 
+organization 
+from a given 
+sentence is 
+called?",Stemming,Lemmatization,"Named entity
+recognition","Topic
+modeling","Named entity
+recognition"
+211,NLP,"Which of the
+following
+is/are true
+statement for
+advanced pre-
+processing
+topics in NLP?","Statement 1 &
+3 are True & 
+Statement 2 is 
+False","Statement 2 &
+3 are False & 
+Statement 1 is 
+True","All the above
+Statements 
+are True","None of the
+above","All the above
+Statements 
+are True"
+219,NLP,"Topic
+modeling is a 
+___________.","Technique of
+only labeling a
+text","Technique of
+changing data 
+labels","Technique to
+understand 
+and extract
+the hidden 
+topics from
+large volumes 
+of text","None of the
+above","Technique to
+understand 
+and extract
+the hidden 
+topics from
+large volumes 
+of text."
+220,NLP,"Classically,
+topic models 
+are introduced 
+in the text
+analysis 
+community for
+____________
+____ topic
+discovery in a 
+corpus of
+documents.",Unsupervised,Supervised,"Semi-
+automated","None of the
+above",Unsupervised
+221,NLP,"___________ 
+is a scoring of
+the frequency
+of the word in 
+the current
+document.","Document
+frequency","Term
+frequency",File frequency,"None of the
+above","Term
+frequency"
+222,NLP,"___________ 
+is a scoring of
+how rare the
+word is across
+documents.","Inverse
+Document
+frequency","Term
+frequency",File frequency,"None of the
+above","Inverse
+Document
+frequency"
+223,NLP,"One of the
+basic
+assumptions
+of LDA and
+LSA as a 
+distributional
+hypothesis 
+which means 
+____________
+______.","Different
+topics make
+use of similar
+words","Similar topics 
+make use of
+different
+words","Similar topics 
+make use of
+similar words","None of the
+above","Similar topics 
+make use of
+similar words"
+224,NLP,"Classifying
+email as a 
+spam, labelling
+WebPages 
+based on their
+content, voice
+recognition 
+are the
+example of
+____________
+_.","Supervised 
+learning","Unsupervised 
+learning","Machine
+learning",Deep learning,"Supervised 
+learning"
+225,NLP,"___________ 
+is a process of
+assigning
+corresponding
+part of speech 
+like noun,
+verb, adverb, 
+adjective, verb 
+to each word 
+in a sentence.","Part of speech 
+tagging","Name entity
+tagging",Parsing,"Disambiguatio
+n","Part of speech 
+tagging"
+226,NLP,Deciding,Information ,Information ,Sentiment,Text,Sentiment
+228,NLP,"The TF-IDF 
+weight of a
+term t will be
+___________ 
+when t occurs 
+in virtually all
+documents.",Highest,Lowest,"Cannot
+determine",Always 1,Lowest
+229,NLP,"Which of the
+following
+statement
+is/are True for
+Word2Vec
+model?","The
+architecture of
+word2vec
+consists of
+only two
+layers -
+continuous
+bag of words
+and skip-gram
+model","Continuous
+bag of word is 
+a shallow 
+neural
+network
+model","Skip-gram is a 
+deep neural
+network
+model","Both CBOW
+and Skip-gram
+are deep 
+neural
+network
+models","Both CBOW
+and Skip-gram
+are deep 
+neural
+network
+models"
+230,NLP,"________occu
+rs when the
+gradients 
+become too
+large due to
+back-","Exploding
+Gradients","Vanishing
+Gradients","Long Short
+Term Memory
+Networks","Gated 
+Recurrent Unit
+Networks","Exploding
+Gradients"
+233,NLP,"RNN Stands
+for _______","Recurring
+Neural","Recursive
+Neural","Removable
+Neural","Recurrent
+Neural","Recurrent
+Neural"
+235,NLP,"Which of the
+following is a 
+loss function?",tanh,ReLu,Cross entropy,"Sigmoid 
+function ",Cross entropy
+236,NLP,"Suppose you 
+have a dataset
+from where
+you have to
+predict three
+classes. Then 
+which of the
+following
+configuration 
+you should use
+in the output
+layer?","Activation 
+function =
+sigmoid, loss
+function =
+cross entropy","Activation 
+function =
+softmax, loss
+function =
+cross entropy","Activation 
+function =
+softmax, loss
+function =
+mean squared 
+error ","Activation 
+function =
+sigmoid, loss
+function =
+mean squared 
+error ","Activation 
+function =
+softmax, loss
+function =
+cross entropy"
+238,NLP,"LSTM is a 
+variation of-",Perceptron,"Multi Layer
+Perceptron ","Convolutional
+Neural","Recurrent
+Neural","Recurrent
+Neural"
+242,NLP,"The network
+that involves 
+backward links 
+from output to
+input is called",CNN,RNN,MLP,Perceptron,RNN
+243,NLP,"What is the
+basic concept
+of Recurrent
+Neural
+Network?","Use previous
+inputs to find
+the next
+output
+according to
+the training
+set.","Use a loop 
+between 
+inputs and 
+outputs in 
+order to
+achieve the
+better
+prediction.","Use loops
+between the
+most
+important
+features to
+predict next
+output.","Use recurrent
+features from
+dataset to find
+the best
+answers.","Use previous
+inputs to find
+the next
+output
+according to
+the training
+set."
+245,NLP,"Which of the
+following
+is/are
+Common uses 
+of RNNs?","BusinessesHel
+p securities 
+traders to
+generate
+analytic
+reports","Detect
+fraudulent
+credit-card 
+transaction","Provide a
+caption for
+images","All of the
+above","All of the
+above"
